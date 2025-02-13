@@ -1,2 +1,2 @@
-# hardwarehacker25
-The updated February 2025 version
+# HardwareHacker
+sample web site for hacking to Raspberry Pi Nano
